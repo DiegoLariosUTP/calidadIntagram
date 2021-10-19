@@ -21,7 +21,7 @@ QUE SE REALIZAN EN UNA RED SOCIAL
 
 ![image](https://user-images.githubusercontent.com/92265675/137427651-afae83ce-d046-40a1-b77f-7e03d4723ae0.png)
 
-![contraseña](https://user-images.githubusercontent.com/64994783/137250120-dd6d03b9-9b4e-4d25-9c15-6149841a5352.png)}
+![contraseña](https://user-images.githubusercontent.com/64994783/137250120-dd6d03b9-9b4e-4d25-9c15-6149841a5352.png)
 
 ![editar perfil](https://user-images.githubusercontent.com/64994783/137250190-f3674653-ecc9-4756-9c0c-6757eaf02f75.png)
 
