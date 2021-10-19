@@ -6,6 +6,7 @@ QUE SE REALIZAN EN UNA RED SOCIAL
 
 ## FUNCIONES
 
+![Diagrama de casos](https://user-images.githubusercontent.com/64994783/137842638-1815e5a5-1898-4934-ba72-4e52faa2170c.png)
 
 
 ## PROTOTIPOS
