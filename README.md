@@ -1,5 +1,14 @@
-# calidadIntagram
 
+## INSTRAGRAM
 
+INSTAGRAM ES UNA APLICACIÓN QUE CONSISTE EN LA INTERACCÓN DE USUARIOS PUBLICANDO ESTADOS, HISTORIAS, PUBLICACIONES, CHATS ENTRE OTRAS CARACTERÍSTICAS 
+QUE SE REALIZAN EN UNA RED SOCIAL
 
-![editar perfil](https://user-images.githubusercontent.com/64994783/137839898-0e20a484-fc2c-4a98-b785-5f35312a550f.png)
+## FUNCIONES
+
+![image](https://user-images.githubusercontent.com/1461568/136130083-761e4aa8-da2a-49d2-9825-0c2849b0fb5a.png)
+
+## PROTOTIPOS
+
+![image](https://user-images.githubusercontent.com/1461568/136307017-86e8412c-c14b-4596-81df-902eac767f90.png)
+
